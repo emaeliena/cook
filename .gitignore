@@ -1,3 +1,4 @@
 cook/db.sqlite3
 cook/index
 *.pyc
+.ropeproject
